@@ -124,7 +124,7 @@ public class Exercicio28 {
 				
 				
 				
-				// SUM REVERSE DIAGONAL
+				// SUM SECONDARY DIAGONAL
 				// J
 				if (i == j) {
 					sumSecondaryDiagonal += db[i][col - 1 -i];
